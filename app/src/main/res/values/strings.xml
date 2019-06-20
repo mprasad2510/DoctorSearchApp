@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoctorSearchApp</string>
+    <string name="search_hint">Search Name</string>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="text_login">L O G I N</string>
+</resources>
